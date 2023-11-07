@@ -1,0 +1,9 @@
+{
+    "routes": [
+      {
+        "src": "/api/auth/login",
+        "dest": "https://qldt.ptit.edu.vn/api/auth/login"
+      }
+    ]
+  }
+  
